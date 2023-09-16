@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Dews7\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Dews7\\OneDrive\\Desktop\\HW\\C# Hello World\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dews7\\AppData\\Roaming\\NuGet\\NuGet.Config"
